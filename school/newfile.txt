@@ -1,6 +1,6 @@
 new file
-<<<<<<< Updated upstream
+
 Add a second line
-=======
+
 Add third line of text
->>>>>>> Stashed changes
+
