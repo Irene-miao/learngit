@@ -1,4 +1,4 @@
-new file
+old file
 
 Add a second line
 
